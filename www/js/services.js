@@ -52,7 +52,7 @@ angular.module('starter.services', [])
   }, {
     id: 9,
     name: '10-"Los Vengadores La Era de Ultron"',
-    description: 'SINOPSIS: La era de Ultrón. Ésta nueva entrega de “los vengadores” es una secuela de la anterior producción dirigida por Joss Whedon. En esta ocasion se hará más hincapié en cada uno de los miembros del grupo,tambien prometen más acción que nunca, y habrá nuevas incorporaciones que harán de la saga un muy buena secuela.Género: Ciencia Ficción. Año: 2015',
+    description: 'SINOPSIS: La era de Ultrón. Ésta nueva entrega de “los vengadores” es una secuela de la anterior producción dirigida por Joss Whedon. En esta occasion se hará más hincapié en cada uno de los miembros del grupo,tambien prometen más acción que nunca, y habrá nuevas incorporaciones que harán de la saga un muy buena secuela.Género: Ciencia Ficción. Año: 2015',
     face: 'img/10LosV.jpg'
   }];
 
